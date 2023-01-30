@@ -1,0 +1,17 @@
+D:\Net6 Project\RabbitMq\RabbiMq.Publisher\RabbiMq.Publisher\bin\Debug\net6.0\RabbiMq.Publisher.exe
+D:\Net6 Project\RabbitMq\RabbiMq.Publisher\RabbiMq.Publisher\bin\Debug\net6.0\RabbiMq.Publisher.deps.json
+D:\Net6 Project\RabbitMq\RabbiMq.Publisher\RabbiMq.Publisher\bin\Debug\net6.0\RabbiMq.Publisher.runtimeconfig.json
+D:\Net6 Project\RabbitMq\RabbiMq.Publisher\RabbiMq.Publisher\bin\Debug\net6.0\RabbiMq.Publisher.dll
+D:\Net6 Project\RabbitMq\RabbiMq.Publisher\RabbiMq.Publisher\bin\Debug\net6.0\RabbiMq.Publisher.pdb
+D:\Net6 Project\RabbitMq\RabbiMq.Publisher\RabbiMq.Publisher\bin\Debug\net6.0\RabbitMQ.Client.dll
+D:\Net6 Project\RabbitMq\RabbiMq.Publisher\RabbiMq.Publisher\obj\Debug\net6.0\RabbiMq.Publisher.csproj.AssemblyReference.cache
+D:\Net6 Project\RabbitMq\RabbiMq.Publisher\RabbiMq.Publisher\obj\Debug\net6.0\RabbiMq.Publisher.GeneratedMSBuildEditorConfig.editorconfig
+D:\Net6 Project\RabbitMq\RabbiMq.Publisher\RabbiMq.Publisher\obj\Debug\net6.0\RabbiMq.Publisher.AssemblyInfoInputs.cache
+D:\Net6 Project\RabbitMq\RabbiMq.Publisher\RabbiMq.Publisher\obj\Debug\net6.0\RabbiMq.Publisher.AssemblyInfo.cs
+D:\Net6 Project\RabbitMq\RabbiMq.Publisher\RabbiMq.Publisher\obj\Debug\net6.0\RabbiMq.Publisher.csproj.CoreCompileInputs.cache
+D:\Net6 Project\RabbitMq\RabbiMq.Publisher\RabbiMq.Publisher\obj\Debug\net6.0\RabbiMq.Publisher.csproj.CopyComplete
+D:\Net6 Project\RabbitMq\RabbiMq.Publisher\RabbiMq.Publisher\obj\Debug\net6.0\RabbiMq.Publisher.dll
+D:\Net6 Project\RabbitMq\RabbiMq.Publisher\RabbiMq.Publisher\obj\Debug\net6.0\refint\RabbiMq.Publisher.dll
+D:\Net6 Project\RabbitMq\RabbiMq.Publisher\RabbiMq.Publisher\obj\Debug\net6.0\RabbiMq.Publisher.pdb
+D:\Net6 Project\RabbitMq\RabbiMq.Publisher\RabbiMq.Publisher\obj\Debug\net6.0\RabbiMq.Publisher.genruntimeconfig.cache
+D:\Net6 Project\RabbitMq\RabbiMq.Publisher\RabbiMq.Publisher\obj\Debug\net6.0\ref\RabbiMq.Publisher.dll
